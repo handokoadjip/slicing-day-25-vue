@@ -1,4 +1,4 @@
-# day-1-vue
+# Die Finnhütte | Modern Architecture and Interior Design Theme
 
 ## Project setup
 ```
